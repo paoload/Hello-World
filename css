@@ -1,0 +1,39 @@
+header{
+  text-align: center;
+  background-color: royalblue;
+}
+table{
+  border: 10px black;
+  text-align: center;
+  margin: 10px auto;
+  background-color: cyan;
+}
+td{
+  border: 5px solid green;
+  background-color: tan;
+  color: purple;
+}
+th{
+  border: 5px solid black;
+  font-family: sans-serif;
+  
+}
+.title{
+  color:red;
+  font-family: cursive;
+
+}
+body{
+  background-color:orange; 
+}
+footer{
+  background-color: pink;
+}
+h3{
+  color:maroon;
+  font-family: fantasy ;
+}
+p{
+  font-family: fantasy ;
+
+}
